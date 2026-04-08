@@ -52,7 +52,8 @@ check your compatible model [here](https://ollama.com/library/gemma4)
 
     note: these files are large, up to 20gb of size because they are offline models.
 
-    ![Uploading pull 426b .png…]()
+    <img width="831" height="417" alt="pull 426b " src="https://github.com/user-attachments/assets/7308b6d4-2fa3-48db-9ff5-2710633fbc60" />
+
 
 # STEP 3: RUN AI
 after pulling image, run with
