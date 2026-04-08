@@ -2,11 +2,14 @@
 
 ## REQUIREMENTS
 - hardware (ram spec)
+  
   a. Gemma 4 E2B (Smallest): Needs ~4GB to 8GB of RAM. (Runs on most modern laptops).
   b. Gemma 4 E4B (Small): Needs ~8GB to 12GB of RAM. (Great for high-end laptops/standard PCs).
   c. Gemma 4 26B / 31B (Large): Needs 24GB to 32GB+ of RAM/VRAM. (Requires a powerful gaming PC or workstation).
+
 <img width="643" height="299" alt="image" src="https://github.com/user-attachments/assets/0afce5bb-f7f9-4610-83d7-2453b568169d" />
-  check your compatible model [here](https://ollama.com/library/gemma4)
+ 
+check your compatible model [here](https://ollama.com/library/gemma4)
   
 - powershell/any terminal
 
