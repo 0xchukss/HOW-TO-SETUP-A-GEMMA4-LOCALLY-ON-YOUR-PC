@@ -25,7 +25,7 @@ check your compatible model [here](https://ollama.com/library/gemma4)
 <img width="921" height="439" alt="ollama for wndows" src="https://github.com/user-attachments/assets/d0349913-575d-4e87-be70-3b4f1f65838a" />
 
 
-  for mac users, installing on terminal using brew
+for mac users, installing on terminal using brew
 
 - install homebrew first
   <pre>
@@ -37,22 +37,22 @@ check your compatible model [here](https://ollama.com/library/gemma4)
     brew install ollama
   </pre>
 
-  - check version to confirm
+ - check version to confirm
     <pre>
       ollama --version
     </pre>
 
-    # STEP 2: pull gemma4 image based on your hardware specs
-    i am using gemma4:26b due to my hardware
+# STEP 2: pull gemma4 image based on your hardware specs
+   i am using gemma4:26b due to my hardware
 
-    run,
+   run,
     <pre>
       ollama pull gemma4:26b
     </pre>
 
-    note: these files are large, up to 20gb of size because they are offline models.
+   note: these files are large, up to 20gb of size because they are offline models.
 
-    <img width="831" height="417" alt="pull 426b " src="https://github.com/user-attachments/assets/7308b6d4-2fa3-48db-9ff5-2710633fbc60" />
+<img width="831" height="417" alt="pull 426b " src="https://github.com/user-attachments/assets/7308b6d4-2fa3-48db-9ff5-2710633fbc60" />
 
 
 # STEP 3: RUN AI
