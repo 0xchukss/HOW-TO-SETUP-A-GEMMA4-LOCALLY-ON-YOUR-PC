@@ -74,4 +74,4 @@ a chat interface shows up so you can interact with the model
 
 that makes methos one best
 
-## GOODLUCKL USING GEMMA4
+## GOODLUCKL USING GEMMA4 AI
